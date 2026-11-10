@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hui Wang
 
-<!--
-**HLL-x/HLL-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am affiliated with Jinan University, China.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Institution: Jinan University
+- Major: Electronic Information Engineering
+- Email: wanghui0090@stu2024.jnu.edu.cn
+- ORCID: https://orcid.org/0009-0007-0492-1551
+
+## Research Interests
+
+- Computer Vision
+- Image Processing
+- Deep Learning
